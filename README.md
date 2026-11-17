@@ -38,4 +38,4 @@ Modelo escolhido: uma camada oculta de 64 neurônios, com F1 macro de 0,751 no t
 
 ## App publicado
 
-Link: _(adicionar URL do app em execução)_
+Link: https://seguranca-sp-ml-global-solution-2026-jose-danilo.streamlit.app/
