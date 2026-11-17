@@ -1,0 +1,17 @@
+# Dados brutos (não versionados)
+data/raw/*
+!data/raw/.gitkeep
+
+# Ambiente e caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Arquivos de sistema e de editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

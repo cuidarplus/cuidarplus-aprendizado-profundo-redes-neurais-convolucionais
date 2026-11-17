@@ -1,0 +1,12 @@
+# Tema inicial (escuro). O seletor "Tema" na sidebar alterna para o claro;
+# as duas paletas ficam em app/ui_theme.py.
+[theme]
+base = "dark"
+primaryColor = "#ED145B"
+backgroundColor = "#0B0B0E"
+secondaryBackgroundColor = "#15151A"
+textColor = "#F2F2F3"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
