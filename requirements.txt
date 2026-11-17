@@ -1,11 +1,6 @@
-numpy
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
 pandas
 scikit-learn
-joblib
-torch
-matplotlib
-seaborn
-streamlit
-jupyter
-openpyxl
-altair
+numpy
