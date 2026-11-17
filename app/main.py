@@ -1,6 +1,6 @@
 """Aplicação Streamlit: classifica uma ocorrência hipotética de veículo como Roubo ou Furto.
 
-Uso (a partir da raiz sp_seguranca_mlp/):
+Uso (a partir da raiz do repositório):
     streamlit run app/main.py
 """
 import sys

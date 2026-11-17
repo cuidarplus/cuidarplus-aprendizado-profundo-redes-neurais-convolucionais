@@ -235,7 +235,6 @@ def render_docs(meta: dict, encoder, model, checkpoint: dict, experiments: dict)
 
     st.subheader(":material/terminal: REPRODUÇÃO")
     st.code(
-        "cd sp_seguranca_mlp\n"
         "python -m venv .venv && source .venv/bin/activate\n"
         "pip install -r requirements.txt\n"
         "python src/data_prep.py                       # gera data/processed/sample_15k.csv\n"

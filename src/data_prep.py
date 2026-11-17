@@ -1,6 +1,6 @@
 """Fase 1 - Pipeline de preparação de dados (Furtado x Roubado, capital de SP).
 
-Uso (a partir da raiz sp_seguranca_mlp/):
+Uso (a partir da raiz do repositório):
     python src/data_prep.py
 """
 from pathlib import Path
